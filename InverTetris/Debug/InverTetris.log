@@ -1,0 +1,64 @@
+﻿  Game.cpp
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(221,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(221,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(308,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(312,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(329,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(336,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(352,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(379,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(394,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(405,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(425,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(444,21): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(444,21): warning C4244:         with
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(444,21): warning C4244:         [
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(444,21): warning C4244:             T=float
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(444,21): warning C4244:         ]
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(444,33): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(444,33): warning C4244:         with
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(444,33): warning C4244:         [
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(444,33): warning C4244:             T=float
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(444,33): warning C4244:         ]
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(453,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(464,21): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(464,21): warning C4244:         with
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(464,21): warning C4244:         [
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(464,21): warning C4244:             T=float
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(464,21): warning C4244:         ]
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(464,33): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(464,33): warning C4244:         with
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(464,33): warning C4244:         [
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(464,33): warning C4244:             T=float
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(464,33): warning C4244:         ]
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(477,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(483,30): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(483,30): warning C4244:         with
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(483,30): warning C4244:         [
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(483,30): warning C4244:             T=float
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(483,30): warning C4244:         ]
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(483,51): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(483,51): warning C4244:         with
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(483,51): warning C4244:         [
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(483,51): warning C4244:             T=float
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(483,51): warning C4244:         ]
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(500,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(506,30): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(506,30): warning C4244:         with
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(506,30): warning C4244:         [
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(506,30): warning C4244:             T=float
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(506,30): warning C4244:         ]
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(506,51): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(506,51): warning C4244:         with
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(506,51): warning C4244:         [
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(506,51): warning C4244:             T=float
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(506,51): warning C4244:         ]
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(837,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(862,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(883,23): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Shape.cpp
+  Generating Code...
+C:\Users\dylan\Desktop\C++\InverTetris\InverTetris\Game.cpp(902,22): warning C4018: '<': signed/unsigned mismatch
+  InverTetris.vcxproj -> C:\Users\dylan\Desktop\C++\InverTetris\Debug\InverTetris.exe
