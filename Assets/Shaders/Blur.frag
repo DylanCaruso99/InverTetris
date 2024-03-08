@@ -1,4 +1,4 @@
-uniform sampler2D 	source;
+uniform sampler2D source;
 uniform vec2 offset;
 
 void main()
